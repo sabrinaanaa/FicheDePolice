@@ -1,0 +1,58 @@
+
+
+###  explorer ###
+[WIN]rnotepad[ENTER]
+
+###  Sans titre - Bloc-notes ###
+k
+
+###  *Sans titre - Bloc-notes ###
+lkm[ENTER]
+
+###  explorer ###
+[WIN]rmstsc[ENTER]
+
+###  Connexion Bureau à distance ###
+
+
+###  192.168.1.12 - Connexion Bureau à distance ###
+250144
+
+###  explorer ###
+[CTRL][CTRL][CTRL][CTRL][CTRL][CTRL][CTRL][CTRL][CTRL][CTRL][CTRL][CTRL][CTRL][CTRL][CTRL][CTRL][CTRL][CTRL][CTRL][CTRL]note
+
+###  TeamViewer ###
+[Shift]1[Shift]4[Shift]2[Shift]8[Shift]0[Shift]4[ENTER][Shift]7
+
+###  Connexion Bureau à distance ###
+
+
+###  192.168.1.12 - Connexion Bureau à distance ###
+[WIN]r
+
+###  explorer ###
+no[ENTER]
+
+###  Sans titre - Bloc-notes ###
+h
+
+###  *Sans titre - Bloc-notes ###
+i
+
+###  192.168.1.12 - Connexion Bureau à distance ###
+notepad[ENTER]hello[ENTER]iperuis[Back][Back][Back]ius[SPACE]remio[Back][Back]ote[Back][Back]e[ENTER]
+
+###  explorer ###
+[WIN]r[ENTER]
+
+###  Connexion Bureau à distance ###
+
+
+###  explorer ###
+[WIN]rnotehh[Back][Back][Back]notepad[ENTER]
+
+###  192.168.1.12 - Connexion Bureau à distance ###
+83996313f[Back][jguuLkrgWY: ON]F1E3251AKHEOPS[ENTER]425000[Back][Back][Back][Back][Back][Back][Back][Back]PROD[Back]G[SPACE]DATE[ENTER]CPT2019[ENTER]*1010[CTRL]PROG[SPACE]DATE[ENTER]XX[Shift]KHEOPS[ENTER]IT[Back][Back]*[jguuLkrgWY: OFF]itxxx820[Back][Back][Back][Back][Back][Back][Back][Back]xxx820xxxxxxa[Back]1105231527050205[ENTER]d:[ENTER]cd[SPACE]vh[ENTER]cd[SPACE]visualdata[ENTER]cd[SPACE][Shift]CPT2019[ENTER]copy[SPACE][Shift]??1010[SPACE][Shift]??2019[ENTER]copy[SPACE][Shift]????1010[SPACE][Shift]????2019[ENTER]exit[ENTER]*2019[CTRL][CTRL]kheops[ENTER][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back]exercice[SPACE][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][jguuLkrgWY: ON]EXERCICE[SPACE]2019KHEOPS[Back][Back]12[ENTER][ENTER]S[ENTER][Back][Back]20[ENTER][ENTER]SNRS[ENTER]6[Shift]O[Back]O[ENTER]S[CTRL][CTRL][CTRL]KHEOPS[ENTER]10[ENTER][ENTER][ENTER]011220[ENTER]010121[ENTER][ENTER]010221[ENTER][ENTER][Back]3011220[ENTER][ENTER][CTRL]010121[ENTER][CTRL][CTRL][CTRL][CTRL][CTRL][CTRL]
+
+###  log - Bloc-notes ###
+[jguuLkrgWY: OFF][CTRL]it[ENTER]
